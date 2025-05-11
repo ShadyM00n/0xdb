@@ -1,0 +1,27 @@
+{
+  "name": "0xdb",
+  "version": "0.0.1",
+  "description": "Lightweight MongoDB key-value wrapper using Mongoose",
+  "main": "index.js",
+  "author": "ShadyMoon <shady.js>",
+  "license": "MIT",
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "key-value",
+    "database",
+    "lightweight",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShadyM00n/0xdb"
+  },
+  "bugs": {
+    "url": "https://github.com/ShadyM00n/0xdb/issues"
+  },
+  "homepage": "https://github.com/ShadyM00n/0xdb#readme",
+  "dependencies": {
+    "mongoose": "^8.14.2"
+  }
+}
